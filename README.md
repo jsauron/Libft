@@ -9,9 +9,9 @@ C language
  
 ## Usage
 
-Git clone https://github.com/jsauron/libft.git
-Run the Makefile with `make` command
-Use the fonctions in your programs 
+* Git clone https://github.com/jsauron/libft.git
+* Run the Makefile with `make` command
+* Use the fonctions in your programs 
 
 ## Author
 
